@@ -1,0 +1,79 @@
+
+
+Scraped on: 04/12/2021, 00:28:39
++--------------------------+-----------------------------+
+|          Title           |             Data            |
++--------------------------+-----------------------------+
+|         Company          |      Tesla, Inc. (TSLA)     |
+|       Stock Price        |            677.02           |
+|    Stock Price Change    |        -6.78 (-0.99%)       |
+|       Market close       |    At close:  4:00PM EDT    |
+|      Previous Close      |            683.80           |
+|           Open           |            677.77           |
+|           Bid            |        676.50 x 2200        |
+|           Ask            |        677.25 x 1200        |
+|       Day's Range        |       669.43 - 680.97       |
+|      52 Week Range       |       116.11 - 900.40       |
+|          Volume          |          21,436,877         |
+|       Avg. Volume        |          33,375,286         |
+|        Market Cap        |           649.84B           |
+|    Beta (5Y Monthly)     |             2.01            |
+|      PE Ratio (TTM)      |           1,057.84          |
+|        EPS (TTM)         |             0.64            |
+|      Earnings Date       | Apr 27, 2021 - May 03, 2021 |
+| Forward Dividend & Yield |          N/A (N/A)          |
+|     Ex-Dividend Date     |             N/A             |
+|      1y Target Est       |            630.23           |
++--------------------------+-----------------------------+
+
+Scraped on: 04/12/2021, 00:28:45
++--------------------------+-----------------------------+
+|          Title           |             Data            |
++--------------------------+-----------------------------+
+|         Company          |      Tesla, Inc. (TSLA)     |
+|       Stock Price        |            677.02           |
+|    Stock Price Change    |        -6.78 (-0.99%)       |
+|       Market close       |    At close:  4:00PM EDT    |
+|      Previous Close      |            683.80           |
+|           Open           |            677.77           |
+|           Bid            |        676.50 x 2200        |
+|           Ask            |        677.25 x 1200        |
+|       Day's Range        |       669.43 - 680.97       |
+|      52 Week Range       |       116.11 - 900.40       |
+|          Volume          |          21,436,877         |
+|       Avg. Volume        |          33,375,286         |
+|        Market Cap        |           649.84B           |
+|    Beta (5Y Monthly)     |             2.01            |
+|      PE Ratio (TTM)      |           1,057.84          |
+|        EPS (TTM)         |             0.64            |
+|      Earnings Date       | Apr 27, 2021 - May 03, 2021 |
+| Forward Dividend & Yield |          N/A (N/A)          |
+|     Ex-Dividend Date     |             N/A             |
+|      1y Target Est       |            630.23           |
++--------------------------+-----------------------------+
+
+Scraped on: 04/12/2021, 00:28:51
++--------------------------+-----------------------------+
+|          Title           |             Data            |
++--------------------------+-----------------------------+
+|         Company          |      Tesla, Inc. (TSLA)     |
+|       Stock Price        |            677.02           |
+|    Stock Price Change    |        -6.78 (-0.99%)       |
+|       Market close       |    At close:  4:00PM EDT    |
+|      Previous Close      |            683.80           |
+|           Open           |            677.77           |
+|           Bid            |        676.50 x 2200        |
+|           Ask            |        677.25 x 1200        |
+|       Day's Range        |       669.43 - 680.97       |
+|      52 Week Range       |       116.11 - 900.40       |
+|          Volume          |          21,436,877         |
+|       Avg. Volume        |          33,375,286         |
+|        Market Cap        |           649.84B           |
+|    Beta (5Y Monthly)     |             2.01            |
+|      PE Ratio (TTM)      |           1,057.84          |
+|        EPS (TTM)         |             0.64            |
+|      Earnings Date       | Apr 27, 2021 - May 03, 2021 |
+| Forward Dividend & Yield |          N/A (N/A)          |
+|     Ex-Dividend Date     |             N/A             |
+|      1y Target Est       |            630.23           |
++--------------------------+-----------------------------+
