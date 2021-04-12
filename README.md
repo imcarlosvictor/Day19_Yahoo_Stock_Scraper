@@ -3,7 +3,7 @@ A scraper that uses BeautifulSoup to scrap stock information from Yahoo Finance.
 
 [Script Demo](https://j.gifs.com/p8rqjm.gif)
 
-![File data scraped](/Pictures/file_data_scraped.png)
+![File data scraped](/home/cv/Pictures/file_data_scraped.png)
 
 ## Technologies
 - Beautiful Soup 4
