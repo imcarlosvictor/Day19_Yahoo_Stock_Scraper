@@ -9,5 +9,6 @@ A scraper that uses BeautifulSoup to scrap stock information from Yahoo Finance.
 ## Technologies
 - Beautiful Soup 4
 - requests
+- prettytable
 - time
 - typing
