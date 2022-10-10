@@ -7,7 +7,6 @@ from typing import Dict
 from prettytable import PrettyTable
 from bs4 import BeautifulSoup
 
-
 def scrape_stock_info(stock_sym: str) -> Dict[str, str]:
     """Visits Yahoo Finance and scrapes the desired company's stock information.
 
