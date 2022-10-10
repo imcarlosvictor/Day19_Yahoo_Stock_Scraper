@@ -74,7 +74,6 @@ def scrape_stock_info(stock_sym: str) -> Dict[str, str]:
 
     return stock_summary
 
-
 def main():
 
     market_symbol = input(
@@ -109,7 +108,6 @@ def main():
         print('Scrape complete.')
 
         time.sleep(5)
-
 
 if __name__ == '__main__':
     main()
