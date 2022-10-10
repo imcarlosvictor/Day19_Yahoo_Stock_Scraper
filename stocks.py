@@ -1,8 +1,11 @@
+# local imports
+import requests
+import time
+
+# third party imports
 from typing import Dict
 from prettytable import PrettyTable
 from bs4 import BeautifulSoup
-import requests
-import time
 
 
 def scrape_stock_info(stock_sym: str) -> Dict[str, str]:
